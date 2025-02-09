@@ -16,9 +16,6 @@
   # Installed programs are located in the homeManagerModules folder
   programs = {};
 
-  # homeManagerModules configuration
-  motd.enable = true;
-
   # This value determines the Home Manager release that your
   # configuration is compatible with. This helps avoid breakage
   # when a new Home Manager release introduces backwards

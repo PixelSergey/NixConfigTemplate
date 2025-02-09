@@ -1,1 +1,1 @@
-# Copy your hardware-configuration.nix here
+# Copy your hardware-configuration.nix file here
